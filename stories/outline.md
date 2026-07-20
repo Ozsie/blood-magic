@@ -1,0 +1,4 @@
+- Möte med klient, önskar sig välgång i affärer, kräver mycket blod, lämnar sigill, får betalt i pengar och något relevant om polisen på stationen. Lämnar och rör sig mot rummet hon hyr.
+- Besöks av ny klient som önskar någon död, betalar hälften nu, har med något från målet, Nora får lite detaljer om målet. Andra hälften och detaljer om det lokala styret lovas när jobbet är klart. Efter mötet ger hon sig ut för spana, kaffe dricks.
+- Förbereder för att ge sig iväg, applicerar ett antal sigill på sig själv. Använder sig av det hon fick från målet för att veta var det finns. Rör sig till målets bostad. Stor, lyxig bostad. 
+- Målet dödas. Nora upptäcks av målets dotter (hennes vän från barnhemmet). Personen som anlitade henne dyker och tar med sig dottern därifrån (frivilligt). Nora lämnas kvar och upptäcks av målets son (biologisk son). Nora lyckas fly och försöker följa efter uppdragsgivaren.
