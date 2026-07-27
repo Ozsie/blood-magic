@@ -1,11 +1,11 @@
-# Iris
-Iris är ungefär jämngammal med [Nora](/knowledge/nora.md), endast några månader yngre. Hon kom till barnhemmet några år efter Nora, när de bägge var omkring 11, 12 år. De blev snabbt nära vänner där. Ungefär sex månader innan barnhemmet brann ner adopterades hon till en inflytelserik familj bestående bland annat av [fadern](/knowledge/fadern.md) och [sonen](/knowledge/sonen.md). Familjen önskade sig en dotter, och visste att Iris hade en koppling till något viktigt (härkomst som ger tillgång/arv/rättigheter till något viktigt, kraftfullt eller värdefullt).
+# Iris Ek
+Iris är ungefär jämngammal med [Nora](/knowledge/nora.md), endast några månader yngre. Hon kom till barnhemmet några år efter Nora, när de bägge var omkring 11, 12 år. De blev snabbt nära vänner där. Ungefär sex månader innan barnhemmet brann ner adopterades hon till en inflytelserik familj bestående bland annat av [Harald](/knowledge/harald.md) och [Viktor](/knowledge/viktor.md). Familjen önskade sig en dotter, och visste att Iris hade en koppling till något viktigt (härkomst som ger tillgång/arv/rättigheter till något viktigt, kraftfullt eller värdefullt).
 
 Relationen till Nora var endast väldigt nära vänskap. De stod varandra nära ända tills Iris adopterades. När hon adopterades bort raserade relationen eftersom Nora såg det som ett svek, vilket Iris inte förstod. Iris å sin sida blev arg över att Nora inte kunde vara glad för hennes skull. Hon har inte helt förlåtit Nora, men har inte heller ägnat henne några större tankar de senaste åren. Hon känner inte igen Nora när hon upptäcker henne i sitt hem.
 
 När hon kom till familjen förändrades hennes förutsättningar till det bättre. Familjen gav henne allt hon behövde i form av resurser och utbildning, utan att skämma bort henne. Åren efter barnhemmet präglades av trygghet. De undanhöll dock mycket av familjens verksamhet och varför hon adopterats. 
 
-Relationen till sonen var vänskaplig under flera år, men det är numera en fasad hon försöker upprätthålla. Relationen till övriga familjemedlemmar följer samma mönster, fram tills nyligen var den kärleksfull.
+Relationen till Viktor var vänskaplig under flera år, men det är numera en fasad hon försöker upprätthålla. Relationen till övriga familjemedlemmar följer samma mönster, fram tills nyligen var den kärleksfull.
 
 Någon gång under det senaste året blev hon kontaktad av [uppdragsgivare](/knowledge/uppdragsgivaren.md) som berättade om hennes ursprung och varför familjen adopterat just henne. Hon tvivlade till en början, men nyfikenhet fick henne att undersöka saken själv och till slut förstod hon att uppdragsgivaren hade rätt. De planerade tillsammans hur hon skulle kunna ta sig från familjen, vilket ledde fram till att uppdragsgivaren lejde Nora. Iris kände inte till mordplanen. Vad Iris och uppdragsgivaren vet om hennes betydelse är inte hela bilden.
 
