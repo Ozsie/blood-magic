@@ -1,7 +1,7 @@
 # Boken
 En normalstor bok bunden i läder med förgylld intarsia. Varken pärmen eller ryggen har någon text skriven på sig. Stilen på bindningen är från sent 1800-tal. Innehållet i boken är en uppsättning ritualer, formler och sigill som dess ägare kan använda sig av tack vare pakten med [entiteten](/knowledge/demon.md). Boken är ett fysiskt objekt, det är inget magiskt över den utöver att den är övernaturligt tålig. Detta innebär att den kan stjälas eller glömmas, men den kan inte användas av någon som inte ingått pakten. 
 
-![boken_1.png](boken_1.png)
+![boken_1.png](images/boken_1.png)
 
 Boken i sig är inte nödvändig för att genomföra något av det som står i den, utan den fungerar mer som ett uppslagsverk. Instruktionerna i den är dock väldigt detaljerade och i många fall invecklade och minsta lilla misstag gör att entiteten inte är bunden att ge någon effekt.
 
