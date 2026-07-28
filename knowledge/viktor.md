@@ -7,7 +7,7 @@ Han är väl införstådd med Iris betydelse och Haralds planer för henne. Utö
 
 Sedan Haralds död är han familjens överhuvud med allt vad det innebär, tillgång till deras förmögenhet och andra resurser i form av industri, kontakter, personal och utrustning.
 
-Viktor kände inte till att Iris visste vad de planerade när Harald dog. Eftersom han aldrig såg [uppdragsgivaren](/knowledge/uppdragsgivaren.md) lämna hemmet med Iris vet han inte mycket mer nu, det enda han vet är att fadern är död och Iris är försvunnen och Nora var den enda kvar i bostaden.
+Viktor kände inte till att Iris visste vad de planerade när Harald dog. Eftersom han aldrig såg [Erik](/knowledge/erik.md) lämna hemmet med Iris vet han inte mycket mer nu, det enda han vet är att fadern är död och Iris är försvunnen och Nora var den enda kvar i bostaden.
 
 ![viktor_ek.png](images/viktor_ek.png)
 
