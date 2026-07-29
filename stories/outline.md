@@ -9,17 +9,34 @@
 - Nora försöker ta reda på vilket skepp de åkte med och vart de är på väg. Hotar [Mikael Ström](/knowledge/sidokaraktärer.md#mikael-ström---hamnarbetaren) för att få informationen. Viktors hantlangare anländer (2-4 st) och Nora tvingas fly, gömmer sig ombord på ett skepp på väg ut, för att undkomma och fortsatt följa efter Erik. Nora utmattad, mycket blod har gått åt under tidigare händelser.
 
 ## Akt 2
+- Nora behöver hålla sig gömd på skeppet, hon kan inte hantera det själv och vill därför inte döda någon. Hon är också ganska utmattad efter striderna så hon behöver fokusera mer på att återhämta sig. Hon lyckas inte utan upptäcks och fångas in av besättningen.
+- Nora landar med skeppet, en mindre koloni på någon planet. Hon överlämnas till lokala myndigheter, en ganska begränsad polisstyrka. Vid ett tillfälle med liten bevakning använder hon sin magi för att övertyga vakten/vakterna om att släppa henne. Kolonin är så pass stor att det går regelbundna transporter till och från den. Hon behöver hitta ett sätt att ta sig vidare mot Eriks mål.
+- Tar sig på något vis vidare mot dit hon tror Erik tagit sig. Använder hot, våld, mutor eller sex för att övertyga en kapten om att transportera henne dit hon vill. 
+- Väl framme väntar Viktor. Piloten kände igen henne, Viktor har spridit information om henne och erbjudit mycket för att få veta något. Piloten har i hemlighet kontaktat Viktor och berättat var och när de kommer landa. Nora inser det och dödar piloten. Viktor försöker övertala Nora om att ge upp, vilket inte Nora har några planer på. Konfrontationen med Viktor tvingar Nora att agera och använda sin magi mot honom, vilket ger Viktor större förståelse för vad hon kan gör och hur farlig hon kan vara. Viktor har många hantlangare med sig, mer än vad Nora kan hantera.
+- Erik anländer, han hörde att Viktor var på plats och bestämde sig för att undersöka. Han ser Nora i underläge och bestämmer sig för att ingripa och hjälpa henne fly. Han tar med henne till sitt och Iris gömställe.
+- Erik och Iris förklarar vad som händer, efter en kort konfrontation med Iris som inte förstår varför hennes fars mördare är på plats. Nora förklarar vad hon gjorde och varför, och vem hon är och hennes relation till Iris.
+- Konfrontation mellan Iris och Nora kopplad till deras relation på barnhemmet, och deras olika syn på Iris adoption.
+- Viktor hittar dem innan Iris och Nora har hunnit reda ut något, han har kontakter där de befinner sig som kan plocka fram kamerabilder. Han lyckas med deras hjälp följa Erik och Noras spår. Nora har redan placerat ut sigill vilket varnar dem i tid och gör att de kan fly. De tar sig till Eriks skepp.
+- Erik, Iris och Nora lämnar platsen på Eriks skepp. Under resan går de igenom vad de vet om vad som händer och planerar vad de behöver göra härnäst. Situationen är något kylig mellan Iris och Nora som ännu inte helt rett ut saker. De kommer fram till att de saknar en viktig bit av pusslet, var den gömda teknologin finns, och behöver därför återvända till Iris hem. Entiteten tar kontakt med Nora för att utöka boken.
 
-**Behöver förtydligas**
+### Entitetens kontakt med Nora
+- Entiteten tar kontakt nu för att den har förstått något som Nora inte ser. Den är också imponerad över Noras vilja och förmåga att spilla blod.
+- Det finns något med den utomjordiska teknologin som skulle kunna påverka entiteten, ingen direkt koppling dock.
+- Erbjudandet läggs fram på ett sätt som gör det svårt för Nora att tacka nej, även om det inte finns något tydligt tvång.
+- Nora behöver själv skriva ner de nya regler och instruktioner som entiteten ger, med sitt eget blod. Hon skriver också ner vad de nya saker gör, utöver vad hon behöver göra för att använda dem. Entiteten förklarar dock inte varför just de här sakerna tillkommer.
 
-- Nora landar med skeppet
-- Tar sig på något vis vidare mot dit hon tror Erik tagit sig
-- Konfrontation med Viktor (han lär sig mer om vem Nora är och vad hon kan göra)
-- Flykt med hjälp av Erik
-- Förklaring av vad som händer (vem är Erik, var kommer Iris in i det hela, vem var fadern)
-- Konfrontation med Iris (Nora känner sig fortfarande sviken, Iris är fortfarande arg)
-- Viktor hittar dem, tvingar fram flykt
-- Resa med planerande för att konfrontera Viktor på deras villkor
+#### Oklarheter
+- Om själva mekaniken
+  - Ger entiteten henne tydliga instruktioner om vad hon ska skriva, eller lämnar den henne att själv formulera/fylla i detaljer utifrån vaga riktlinjer (vilket skulle öppna för misstag)?
+  - Kostar själva nedtecknandet blod som en engångskostnad, utöver den löpande kostnaden när ritualen sedan används?
+
+- Om scenen och dialogen
+  - Frågar Nora entiteten rakt ut varför just nu / vad den sett — och får hon då tystnad, ett vagt svar, eller inget svar alls? Det kan vara ett bra sätt att visa hennes skärpa och misstänksamhet i stunden.
+  - Hur reagerar hon känslomässigt på att för första gången vara den som blir kontaktad, snarare än den som initierar? Känns det som ett hot, en förmån, eller bägge samtidigt?
+
+- Om kopplingen till den större handlingen
+  - Vill du så in en antydan om att entiteten och den utomjordiska teknologin kan vara relaterade på ett djupare sätt (bortom att bara störa varandra rent fysikaliskt), eller ska det förbli en ren mekanisk detalj utan vidare mytologisk koppling?
+  - Vad exakt gör de nya ritualerna rent funktionellt i handlingen — är de kopplade till att hantera fler fiender samtidigt, motverka EM-störningen, eller något annat du ännu inte bestämt?
 
 ### Frågor
 #### Konfrontationen med Viktor
@@ -34,8 +51,4 @@
 - Är det Erik eller vännen själv som förklarar adoptionen/svreket, eller kommer sanningen ut i konfrontationen med vännen specifikt? Att låta vännen själv få ge sin version (som kanske skiljer sig från vad Nora trott i fem år) kan ge en stark emotionell scen — kanske var det inte alls ett svek ur vännens perspektiv.
 - Känner vännen igen Nora när de möts igen, eller tar det ett ögonblick (vi pratade om det här tidigare)?
 
-#### Viktor hittar dem igen
-- Hur spårar han dem — genom egna resurser, genom att köpa/tvinga information (spegling av hur Nora själv jobbar), eller genom ett misstag någon av de andra begår? Att ge honom en trovärdig spårningsmetod förstärker honom som ett kompetent hot snarare än en som "råkar" dyka upp.
-
 ## Frågor
-- Var någonstans utspelar sig berättelsen (stad, land, tidsperiod/framtid)? Bor hon fast någonstans eller rör hon sig mycket?
