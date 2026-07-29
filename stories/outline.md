@@ -18,12 +18,30 @@
 - Konfrontation mellan Iris och Nora kopplad till deras relation på barnhemmet, och deras olika syn på Iris adoption.
 - Viktor hittar dem innan Iris och Nora har hunnit reda ut något, han har kontakter där de befinner sig som kan plocka fram kamerabilder. Han lyckas med deras hjälp följa Erik och Noras spår. Nora har redan placerat ut sigill vilket varnar dem i tid och gör att de kan fly. De tar sig till Eriks skepp.
 - Erik, Iris och Nora lämnar platsen på Eriks skepp. Under resan går de igenom vad de vet om vad som händer och planerar vad de behöver göra härnäst. Situationen är något kylig mellan Iris och Nora som ännu inte helt rett ut saker. De kommer fram till att de saknar en viktig bit av pusslet, var den gömda teknologin finns, och behöver därför återvända till Iris hem. [Entiteten](/knowledge/demon.md) tar kontakt med Nora för att utöka [boken](/knowledge/boken.md).
+- Erik, Iris och Nora återvänder till Iris hem, det är välbevakat, men Viktor är inte på plats än. De tar sig in och lyckas komma åt informationen de behöver, men under flykten fångas Erik och Iris av Viktors hantlangare. Nora tvekar men väljer att försöka rädda dem, men fångas hon också. Nora fångas också. Alla hennes ägodelar tas ifrån henne, inklusive kläder, allt för att förhindra att hon kommer åt blod. Erik dödas.
 
 ### Entitetens kontakt med Nora
 - Entiteten tar kontakt nu för att den har förstått något som Nora inte ser. Den är också imponerad över Noras vilja och förmåga att spilla blod.
 - Det finns något med den utomjordiska teknologin som skulle kunna påverka entiteten, ingen direkt koppling dock.
 - Erbjudandet läggs fram på ett sätt som gör det svårt för Nora att tacka nej, även om det inte finns något tydligt tvång.
 - Nora behöver själv skriva ner de nya regler och instruktioner som entiteten ger, med sitt eget blod. Hon skriver också ner vad de nya saker gör, utöver vad hon behöver göra för att använda dem. Entiteten förklarar dock inte varför just de här sakerna tillkommer.
+
+## Akt 3
+- Iris och Nora förs till ett skepp som ska möta upp Viktor på väg mot valvet. Nora hålls fastspänd på en bår medan Iris låses in i en vanlig hytt.
+- Skeppet möter upp Viktor och resan fortsätter mot valvet. Viktor förklarar situationen för Nora, att hon inte kan göra något, att han ska ta reda på allt om henne, att han ska kunna utnyttja hennes krafter. Viktor vet ännu inte att pakten mellan Nora och Entiteten är personlig. Han försöker genomföra ritualer han läst i boken, men de fungerar inte för honom. Han pratar även med Iris, försöker få henne att se hans sida av det hela.
+- Skeppet närmar sig målet. Nora tar sig ut, vakterna har inte täckt alla möjligheter för henne att skada sig själv för att få ut blod. De landar på planeten där valvet finns. Medan Viktor för med sig Iris mot valvet oskadliggör Nora vakterna som är kvar på skeppet.
+- Nora följer spåren (fotspår eller liknande) mot valvet. Hon hinner ifatt dem lagom till att Iris under hot öppnar valvet. Viktor för med sig Iris in, hotar med att döda henne om Nora gör något. Nora tvekar och de försvinner in.
+- Nora följer försiktigt efter. Hon inser att en eller flera av de nya saker entiteten fick henne att skriva ner behövs för att skydda de båda.
+- Nora konfronterar Viktor som inte har koll på Iris längre. Nora dödar Viktor. Iris och Nora undersöker vad som är gömt i valvet och försöker komma fram till vad de ska göra.
+  
+  Deras alternativ:
+  1. Teknologin är redan borta, jakten fortsätter. Kräver fortsättning.
+  2. De förseglar valvet, både med Iris som nyckel och Noras magi. Tydligt slut med personlig utveckling.
+  3. De tar med sig teknologin. Kräver också fortsättning, förminskar eventuellt Noras utveckling.
+  4. De förstör teknologin. Väldigt tydligt slut.
+  5. Det är inte teknologi i valvet utan ett meddelande eller liknande. Öppnar för fortsättning.
+  6. Någon som rört sig i skuggorna stjäl teknologin. Kräver fortsättning. Kräver plantering tidigare.
+  7. Teknologin aktiveras med oanade konsekvenser för både Iris och Nora, men också galaxen i stort. Öppnar för fortsättning, men kan också vara ett slut.
 
 ## Frågor
 [Se Oklarheter](/knowledge/oklarheter.md)
