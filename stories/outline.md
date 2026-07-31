@@ -30,9 +30,10 @@
 - Iris och Nora förs till ett skepp som ska möta upp Viktor på väg mot valvet. Nora hålls fastspänd på en bår medan Iris låses in i en vanlig hytt.
 - Skeppet möter upp Viktor och resan fortsätter mot valvet. Viktor förklarar situationen för Nora, att hon inte kan göra något, att han ska ta reda på allt om henne, att han ska kunna utnyttja hennes krafter. Viktor vet ännu inte att pakten mellan Nora och Entiteten är personlig. Han försöker genomföra ritualer han läst i boken, men de fungerar inte för honom. Han pratar även med Iris, försöker få henne att se hans sida av det hela.
 - Skeppet närmar sig målet. Nora tar sig ut, vakterna har inte täckt alla möjligheter för henne att skada sig själv för att få ut blod. De landar på planeten där valvet finns. Medan Viktor för med sig Iris mot valvet oskadliggör Nora vakterna som är kvar på skeppet.
-- Nora följer spåren (fotspår eller liknande) mot valvet. Hon hinner ifatt dem lagom till att Iris under hot öppnar valvet. Viktor för med sig Iris in, hotar med att döda henne om Nora gör något. Nora tvekar och de försvinner in.
+- Nora följer spåren (fotspår eller liknande) mot valvet. Hon hinner ifatt dem strax innan de når valvet. Viktor hotar att döda Iris om Nora gör något. Nora tvekar och de försvinner vidare in mot valvet.
 - Nora följer försiktigt efter. Hon inser att en eller flera av de nya saker entiteten fick henne att skriva ner behövs för att skydda de båda.
-- Nora konfronterar Viktor som inte har koll på Iris längre. Nora dödar Viktor. Iris och Nora undersöker vad som är gömt i valvet och försöker komma fram till vad de ska göra.
+- Nora konfronterar Viktor som inte har koll på Iris längre. Nora dödar Viktor. Nora försöker lugna Iris så att de kan öppna valvet för att bilda sin egen uppfattning om vad de ska göra härnäst. 
+- Iris och Nora undersöker vad som är gömt i valvet och försöker komma fram till vad de ska göra.
   
   Deras alternativ:
   1. Teknologin är redan borta, jakten fortsätter. Kräver fortsättning.

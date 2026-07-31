@@ -18,6 +18,8 @@ Iris är utåtriktad och nyfiken, kanske lite naiv men mycket av det krossades n
 ## Varför hon är viktig
 Iris är ättling till en utforskare som hittade rester av en utomjordisk civilisation. Bland dessa fann hen fungerande teknologi som hen tog med sig tillbaka. Väl hemma igen undersökte hen det tillsammans med en liten grupp forskare. De insåg att det de hittat skulle vara alldeles för farligt för mänskligheten. Istället för att förstöra det så valde de att konstruera ett valv med ett genetiskt lås, endast utforskaren och hens ättlingar kan öppna det. De gjorde det då de ändå såg möjligheterna med teknologin och med tron på att i framtiden skulle den kunna användas på ett säkert sätt. Iris själv kände inte till detta förrän Erik kontaktade henne. Så vitt det är känt finns ingen annan ättling än Iris. Iris arv gör att hon kan öppna låset.
 
+Valvet kan endast öppnas när någon ur ättlingens släkt är på plats och vid liv. Valvets system läser av DNA och andra biometriska värden. DNA måste matcha vissa markörer som återfinns hos den släkten. Det måste också finnas tillräckligt mycket DNA på plats för att kunna avgöra att personen är på plats. Utöver det mäts saker som puls, andning och svettning. Även vissa åldersmarkörer mäts för att säkerställa att personen är vuxen. Allt detta görs för att säkerställa att någon ur släkten är på plats, vid liv, inte under press och tillräckligt mogen för att valvet ska kunna öppnas säkert.
+
 ![iris.png](images/iris.png)
 
 ## Frågor
