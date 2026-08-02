@@ -22,7 +22,7 @@ Man, runt 45 år. Arbetar med administration, lastlistor, dockningslistor, avgå
 
 Han är gift, har en familj och försöker därför hålla sig utanför de konflikter som ofta uppstår på stationen. Han handskas dock ofta med människor som har mindre ärliga syften, genom sitt arbete, och har därför lärt sig att känna igen personer som kan vara farliga.
 
-Han känner inte till Nora sedan innan, men uppfattar direkt att Nora är farlig, och vacker. Det gör honom vaksam, och beredd att göra som hon säger. Kombinationen av hans insikter, skamkänslor över dessa och Noras agerande gör att han bestämmer sig för att ta fram den information hon letar efter.
+Han känner inte till Nora sedan innan, men uppfattar direkt att Nora är farlig. Det gör honom vaksam, och beredd att göra som hon säger. Kombinationen av hans insikter, skamkänslor över dessa och Noras agerande gör att han bestämmer sig för att ta fram den information hon letar efter.
 
 Namnet är en referens till hamnar, genom vatten.
 
