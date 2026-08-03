@@ -1,4 +1,4 @@
-# Skiss
+# Blodsmagi - Skiss
 ## Akt 1 
 - Möte med [klient (Elin Sparre)](/knowledge/sidokaraktärer.md#elin-sparre---första-klienten), önskar sig välgång i affärer, kräver mycket blod, lämnar sigill, får betalt i pengar och något relevant om polisen på stationen. Lämnar och rör sig mot rummet hon hyr.
 - Besöks av ny [klient (Erik)](/knowledge/erik.md) som önskar någon död, betalar hälften nu, har med något från målet, Nora får lite detaljer om [målet, Harald Ek](/knowledge/harald.md). Andra hälften och detaljer om det lokala styret lovas när jobbet är klart. Efter mötet ger hon sig ut för spana, kaffe dricks.
