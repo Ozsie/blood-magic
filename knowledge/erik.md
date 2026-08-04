@@ -14,3 +14,5 @@ Han har en hel kontakter i den undre världen och några som rör sig i gränsla
 ![erik.png](images/erik.png)
 
 ## Frågor
+
+#karaktär

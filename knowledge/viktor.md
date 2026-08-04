@@ -12,3 +12,5 @@ Viktor kände inte till att Iris visste vad de planerade när Harald dog. Efters
 ![viktor_ek.png](images/viktor_ek.png)
 
 ## Frågor
+
+#karaktär

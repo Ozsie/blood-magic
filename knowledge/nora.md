@@ -20,11 +20,7 @@ Hon är rädd för eld, något som kommer ur branden som förstörde barnhemmet.
 Hon bryr sig, i grunden, bara om sig själv. Pakten och hur reglerna ser ut gör att hon ser på sin kropp mer som ett verktyg för att hon ska överleva. Hon äcklas inte av sig själv, men ser sig själv mest som något funktionellt.
 
 ## Pakten
-Nora själv kan inte ensidigt avsluta pakten utan det behövs tre parter. Reglerna för detta är nedskrivna i [boken](/knowledge/boken.md). Kortfattat behöver Nora, entiteten och en tredje person samtliga gå med på att överföra pakten från Nora till den tredje personen. Utöver genomförs en enkel ritual som involverar bägges blod.
-
-Skulle Nora dö bryts pakten naturligt och entiteten behöver på egen hand erbjuda den till någon annan. När Nora slöt den fanns ingen annan som hade pakten och entiteten har inte avslöjat något om tidigare innehavare.
-
-Nora håller hårt i information om hur hennes förmågor fungerar och vad deras källa är, allt för att undvika att någon aktivt dödar henne med syftet att ta över pakten. Hon har inget intresse själv av att släppa ifrån sig pakten, den tjänar henne väl och det liv hon kan leva genom den fungerar för henne. Det finns inget uppenbart hos människor som tyder på att de skulle vara lämpliga arvtagare och Nora är så pass ung att hon inte bryr sig om att planera för att lämna över pakten till någon annan.
+Se [pakten](/knowledge/pakten.md)
 
 ## Frågor
 **Om kvinnan**
@@ -34,3 +30,5 @@ Nora håller hårt i information om hur hennes förmågor fungerar och vad deras
 - Har hon gjort något hon själv skulle kalla ett misstag, även om hon inte ångrar det moraliskt?
 - Vet hon vad vännen hette, eller hur hon ser ut idag — skulle Nora känna igen henne om de möttes igen?
 - Är "sveket" något Nora medvetet håller kvar som bitterhet, eller mer något hon tryckt undan och slutat tänka på (tills något i handlingen river upp det)?
+
+#karaktär

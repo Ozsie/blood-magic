@@ -18,3 +18,5 @@ Dess mål är att fortsatt existera, och att uppleva universum och framförallt 
 ## Frågor
 - Föddes varelsen med radions uppfinnande, eller fanns den redan innan?
 - Vad gör den kompatibel med människor? Behöver det ens bestämmas?
+
+#karaktär

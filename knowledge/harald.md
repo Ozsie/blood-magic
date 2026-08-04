@@ -18,3 +18,5 @@ Haralds familj kommer från gamla pengar. Familjen har drivit olika verksamheter
 ![harald_ek_1.png](images/harald_ek_1.png)
 
 ## Frågor
+
+#karaktär

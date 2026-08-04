@@ -27,3 +27,5 @@ Han känner inte till Nora sedan innan, men uppfattar direkt att Nora är farlig
 Namnet är en referens till hamnar, genom vatten.
 
 ![mikael_ström.png](images/mikael_str%C3%B6m.png)
+
+#karaktär

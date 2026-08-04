@@ -33,3 +33,5 @@ De nya sakerna från entiteten — "behövs för att skydda dem båda" i valvsce
 - Vill du ha en tydlig kategorisering i boken (t.ex. attack/skada, skydd, perception/påverkan, spårning, helande/liv-död), eller ska det kännas mer organiskt och blandat, som en verklig ockult samlingsbok skulle vara?
 - Skalar kostnaden (blod) ungefär linjärt med effekten (mer blod = mer kraftfull effekt), eller finns det ritualer som är "dyra" av andra skäl (svårighetsgrad, risk, tid) snarare än ren blodmängd?
 - Ska några ritualer kräva andras blod specifikt (inte bara hennes eget) för att fungera, vilket skulle förklara varför hon ibland behöver klienter eller offer närvarande snarare än att bara klara sig med sitt eget?
+
+#koncept
